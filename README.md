@@ -17,13 +17,23 @@ REMARKS:
 OUTPUT:
 
 starting up on localhost port 20000
+
 waiting for a connection
+
 connection from: ('127.0.0.1', 21570)
+
 Waiting for data from the client
+
 size of the mft file is going to be sent
+
 file size: 102400
+
 MFT (compressed) extracted succesfuly to: C:\temp\extractedMFT\127.0.0.1_mft_compressed
+
 MFT decompressed succesfuly and saved to: C:\temp\extractedMFT\127.0.0.1_mft_decompressed
+
 MFT analyzed succesfuly and results saved to log file: C:\temp\logfile.txt 
+
 no more data from: ('127.0.0.1', 21570)
+
 waiting for a connection
