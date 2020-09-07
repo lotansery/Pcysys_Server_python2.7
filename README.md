@@ -11,3 +11,8 @@ server.py C:\temp\extractedMFT C:\temp\logfile.txt 20000
 
 REMARKS:
 - Reciving data time can take a few minutes
+
+
+OUTPUT:
+
+
