@@ -3,8 +3,8 @@ Waits for data from the malware and every newly arrived MFT, it will map the pat
 
 USAGE:
 
-server.py <folder_path_where_to_save_mft> <path_to_logfile>
+server.py <folder_path_where_to_save_mft> <path_to_logfile> <listening_port>
 
 EXAMPLE:
 
-server.py C:\temp\extractedMFT C:\temp\logfile.txt
+server.py C:\temp\extractedMFT C:\temp\logfile.txt 20000
