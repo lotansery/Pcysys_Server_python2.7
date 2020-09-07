@@ -11,7 +11,7 @@ server.py C:\temp\extractedMFT C:\temp\logfile.txt 20000
 
 REMARKS:
 - python 2.7 was used
-- Reciving data time can take a few minutes
+- Reciving all data from client can take a few minutes
 
 
 OUTPUT EXAMPLE:
