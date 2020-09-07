@@ -14,7 +14,7 @@ REMARKS:
 - Reciving all data from client can take a few minutes
 
 
-OUTPUT EXAMPLE:
+OUTPUT:
 
 starting up on localhost port 20000
 waiting for a connection
