@@ -8,3 +8,6 @@ server.py <folder_path_where_to_save_mft> <path_to_logfile> <listening_port>
 EXAMPLE:
 
 server.py C:\temp\extractedMFT C:\temp\logfile.txt 20000
+
+REMARKS:
+- Reciving data time can take a few minutes
